@@ -19,13 +19,9 @@
 - **Advanced Skiills:** 
   - TypeScript  
   - JWT Authentication  
-  - API Design — rate limiting, pagination, versioning  
-  - Load Balancing — Nginx basics  
-  - Messaging Queues — RabbitMQ, Kafka intro  
-  - Security Best Practices  
+  - API Design 
+  - Load Balancing 
+  - Messaging Queues 
   - OpenAI API & LangChain  
 
  
-
----
-
