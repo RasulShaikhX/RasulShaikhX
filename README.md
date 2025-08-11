@@ -16,7 +16,7 @@
 - **Databases:** MongoDB
 - **Version Control & DevOps:** Git, GitHub, Docker, Vercel / Render, AWS Basics
 - 
-- **Advanced Topics:** 
+- **Advanced Skiills:** 
   - TypeScript  
   - JWT Authentication  
   - API Design — rate limiting, pagination, versioning  
