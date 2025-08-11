@@ -1,16 +1,31 @@
-## Hi there 👋
+ 
 
-<!--
-**RasulShaikhX/RasulShaikhX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ # Hi, I'm Rasul Shaikh 👋
 
-Here are some ideas to get you started:
+🎓 **Student | Aspiring Full Stack Developer | DSA Learner**  
+💻 Currently learning **C++ for DSA** and **MERN Stack**  
+🚀 Goal: To become a skilled full stack developer and work at top IT companies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills I'm Learning:-
+
+- **Programming & DSA:** C++ (Data Structures & Algorithms)
+- **Frontend:** HTML, CSS, JavaScript, React.js, TailwindCSS
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB
+- **Version Control & DevOps:** Git, GitHub, Docker, Vercel / Render, AWS Basics
+- 
+- **Advanced Topics:** 
+  - TypeScript  
+  - JWT Authentication  
+  - API Design — rate limiting, pagination, versioning  
+  - Load Balancing — Nginx basics  
+  - Messaging Queues — RabbitMQ, Kafka intro  
+  - Security Best Practices  
+  - OpenAI API & LangChain  
+
+ 
+
+---
+
